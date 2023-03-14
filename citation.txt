@@ -1,0 +1,7 @@
+@article{REPO-346,
+    author = "Zha, Mengyue",
+    journal = "CoRR",
+    title = "{Time Series Generation with Masked Autoencoder}",
+    volume = "abs/2201.07006",
+    year = "2022"
+}
