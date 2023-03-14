@@ -1,4 +1,4 @@
-@article{REPO-346,
+@article{REPO-345,
     author = "Zha, Mengyue",
     journal = "CoRR",
     title = "{Time Series Generation with Masked Autoencoder}",
